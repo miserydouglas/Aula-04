@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+    font-weight:bolder;
+
+}
+
+#cabecalho{
+color:white;
+background-color: #21022d;
+text-align: center;
+padding: 8px;
+font-weight: lighter;
+font-size: larger;
+
+}
+
+#corpo{
+    background-color: #e2d8e7;
+    margin: 24px;
+    padding: 20px;
+    color: #21022d;
+}
+
+#cardapio{
+    margin: 16px;
+}
+
+.vitaminas{
+    margin-left: 64px;
+    margin-top: 32px;
+   
+    
+}
+
+.imagens{
+    width: 150px;
+    height: 150px;
+}
+
+#lactose{
+    margin-top: 64px;
+    text-align: center;
+}
+
+#lactoseimagens{
+    width: 600px;
+    height: 300px;
+    margin-top: 32px;
+}
+
+#rodape{
+    text-align: center;
+    color: #ffff;
+    background-color: #21022d;
+    padding: 8px;
+    font-weight: lighter;
+}
